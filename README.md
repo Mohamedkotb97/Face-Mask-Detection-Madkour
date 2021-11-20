@@ -1,0 +1,2 @@
+# Face-Mask-Detection-Madkour
+The novel COVID-19 virus has forced us all to rethink how we live our everyday lives while keeping ourselves and others safe. Face masks have emerged as a simple and effective strategy for reducing the virus’s threat. Therefore, the goal of the project is to develop face mask detector using deep learning to use it in my company to know the violator and impose even a simple penalty.
